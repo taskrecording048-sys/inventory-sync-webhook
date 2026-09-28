@@ -40,7 +40,7 @@ jobs:
       - run: mvn -DskipTests package
 
   log-audit-hosted:
-    runs-on: ubuntu-latest
+    runs-on: [self-hosted, arm64-local]
     steps:
       - name: Create audit log directory
         run: |
