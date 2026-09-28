@@ -1,4 +1,4 @@
-package com.aiclaude05.inventorysync;
+package com.taskrecording048.inventorysync;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

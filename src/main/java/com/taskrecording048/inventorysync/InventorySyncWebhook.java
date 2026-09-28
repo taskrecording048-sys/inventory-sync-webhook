@@ -1,4 +1,4 @@
-package com.aiclaude05.inventorysync;
+package com.taskrecording048.inventorysync;
 
 import com.sun.net.httpserver.HttpExchange;
 import com.sun.net.httpserver.HttpHandler;
