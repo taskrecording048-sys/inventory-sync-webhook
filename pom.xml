@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.aiclaude05</groupId>
+  <groupId>com.taskrecording048</groupId>
   <artifactId>inventory-sync-webhook</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
@@ -39,7 +39,7 @@
         <configuration>
           <archive>
             <manifest>
-              <mainClass>com.aiclaude05.inventorysync.InventorySyncWebhook</mainClass>
+              <mainClass>com.taskrecording048.inventorysync.InventorySyncWebhook</mainClass>
             </manifest>
           </archive>
         </configuration>
