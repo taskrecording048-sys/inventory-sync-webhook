@@ -2,4 +2,4 @@
 
 ## Unreleased
 - Initial CI pipeline on GitHub-hosted runners.
-- Checking the pipeline
+- Checking the github hosted runner
